@@ -26,7 +26,7 @@
 
 ## 2. 结论与洞察
 
-![PR Curve Comparison](https-placeholder-for-your-pr-curve-comparison-image.png)
+<img width="954" height="669" alt="Image" src="https://github.com/user-attachments/assets/43ac6e51-30e6-488b-800a-08b95dba3713" />
 *(注：强烈建议上传PR曲线对比图并替换此处的链接，这张图是本项目的灵魂)*
 
 *   **性能对比**: 实验结果清晰地表明，**SMOTE + 逻辑回归 (AUPRC=0.743)** 的性能**显著优于**孤立森林 (AUPRC=0.199)。
