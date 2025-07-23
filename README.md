@@ -43,4 +43,4 @@
 
 本项目使用的数据集来自Kaggle竞赛 "Credit Card Fraud Detection"。由于文件大小限制，数据集未包含在本仓库中。您可以从以下链接下载原始数据：
 
-[https://www.kaggle.com/datasets/mlg-ulb/credit-card-fraud-detection](https://www.kaggle.com/datasets/mlg-ulb/credit-card-fraud-detection)
+[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
